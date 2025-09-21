@@ -2,8 +2,6 @@
 
 **LexiAI** is a full-stack web application designed to simplify complex documents. It leverages the power of the Mistral 7B language model, running locally via Ollama, to provide users with instant text simplification, summarization, and risk analysis for their documents.
 
-**[Report a Bug](https://github.com/your-username/LexiAI/issues)** &nbsp;&nbsp;•&nbsp;&nbsp; **[Request a Feature](https://github.com/your-username/LexiAI/issues)**
-
 ---
 
 ### ✨ Key Features
